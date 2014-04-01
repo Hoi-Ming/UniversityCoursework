@@ -12,9 +12,9 @@ Left/Right - Move
 
 
 How to play:
-Level 1: collect 4 pokeballs then collect Pikachu to progress. Watch your health, magikarp
-Level 2: collect 4 pokeballs then collect Pikachu to progress. Watch your health, magikarp
-Level 3: collect 4 pokeballs then collect Pikachu to progress. Watch your health, magikarp
+Level 1: collect 4 pokeballs then collect Pikachu to progress. Watch out for magikarp, -1 health 
+Level 2: collect 4 pokeballs then collect Pikachu to progress. Watch out for magikarp, -1 health 
+Level 3: collect 4 pokeballs then collect Pikachu to progress. Watch out for magikarp, -1 health 
 
 Megaman face - 1 life up
 Megaman energy pellets - collectable, no effect
